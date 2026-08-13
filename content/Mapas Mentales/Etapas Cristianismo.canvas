@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"38a1c872e11d7eb3","x":-180,"y":-160,"width":260,"height":120,"type":"text","text":"**Didaché (siglos I-II)**  \n→ comunidades cristianas todavía muy cercanas al ambiente apostólico."},
+		{"id":"ed73a3ab5959a5b8","x":100,"y":60,"width":250,"height":200,"type":"text","text":"**Gregorio Magno (siglos VI-VII)**  \n→ una Iglesia mucho más institucionalizada, con obispos, monasterios, liturgias desarrolladas y un obispo de Roma con creciente influencia política y religiosa."}
+	],
+	"edges":[]
+}
